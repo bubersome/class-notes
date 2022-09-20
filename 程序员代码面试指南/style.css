@@ -1,0 +1,396 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    height: 100%;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 2em
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre5 {
+    color: #00C
+    }
+.calibre6 {
+    height: auto;
+    width: 50%
+    }
+.calibre7 {
+    display: block;
+    font-family: monospace;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    white-space: pre-wrap
+    }
+.calibre8 {
+    height: auto;
+    width: 80%
+    }
+.calibre9 {
+    height: auto;
+    width: 20%
+    }
+.calibre10 {
+    height: auto;
+    width: 30%
+    }
+.calibre11 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0;
+    width: 100%
+    }
+.calibre12 {
+    display: table-column
+    }
+.calibre13 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre14 {
+    height: auto;
+    width: 40%
+    }
+.calibre15 {
+    height: auto;
+    width: 70%
+    }
+.calibre16 {
+    height: auto;
+    width: 10%
+    }
+.calibre17 {
+    height: auto;
+    width: 60%
+    }
+.calibre18 {
+    height: auto;
+    width: 15%
+    }
+.calibre19 {
+    height: auto;
+    width: 35%
+    }
+.calibre20 {
+    height: auto;
+    width: 90%
+    }
+.chapter {
+    display: block;
+    margin-top: 5%;
+    text-align: justify
+    }
+.kindle-cn-bold {
+    font-weight: bold
+    }
+.kindle-cn-caption {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.kindle-cn-copyright-text {
+    display: block;
+    line-height: 1.618em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 0
+    }
+.kindle-cn-heading {
+    border-bottom-color: #c7c7c7;
+    border-bottom-style: dashed;
+    border-bottom-width: 2px;
+    border-top-color: #c7c7c7;
+    border-top-style: dashed;
+    border-top-width: 2px;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    padding-bottom: 0.75em;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0.75em;
+    text-align: center
+    }
+.kindle-cn-heading1 {
+    display: block;
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.kindle-cn-image {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    page-break-inside: avoid;
+    text-align: center
+    }
+.kindle-cn-italic {
+    font-style: italic
+    }
+.kindle-cn-noindent {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.kindle-cn-noindent1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 4em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.kindle-cn-para-center {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
+.kindle-cn-para-hang {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 4em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: -2em
+    }
+.kindle-cn-para-right {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right;
+    text-indent: 0
+    }
+.kindle-cn-table-dg {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: center;
+    vertical-align: middle
+    }
+.kindle-cn-table-dg1 {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: center;
+    vertical-align: middle
+    }
+.kindle-cn-table-dg2 {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: none;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: center;
+    vertical-align: middle
+    }
+.kindle-cn-table-dg3 {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: none;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: center;
+    vertical-align: middle
+    }
+.kindle-cn-table-dg4 {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: none;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: left;
+    vertical-align: middle
+    }
+.kindle-cn-table-dg5 {
+    border-bottom-style: none;
+    border-bottom-width: 1px;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: none;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: center;
+    vertical-align: middle
+    }
+.kindle-cn-table-dg6 {
+    border-bottom-style: none;
+    border-bottom-width: 1px;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: none;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: left;
+    vertical-align: middle
+    }
+.kindle-cn-table-dg24a {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: none;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: left;
+    vertical-align: middle
+    }
+.kindle-cn-toc-level {
+    display: block;
+    margin-left: 0
+    }
+.kindle-cn-toc-level1 {
+    display: block;
+    margin-left: 2em
+    }
+.kindle-cn-toc-title {
+    border-bottom-color: #000;
+    border-bottom-style: dotted;
+    border-bottom-width: 1.5px;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 1em;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.math-super {
+    font-size: 0.75em;
+    vertical-align: super
+    }
+
